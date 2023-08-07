@@ -1,0 +1,668 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.a{
+	height: 1100px;
+	width: 1000px;
+}
+.b{
+	height: 500px;
+	width: 1000px;
+	background-image: url("../images/dp.jpg");
+	background-size: cover;
+}
+.c{
+	height: 250px;
+	width: 1000x;
+	background-color:pink;
+}
+.d{
+	height: 350px;
+	width: 1000px;
+	background-color: white;
+}
+.ca{
+	height: 250px;
+	width: 250px;
+	background-color: #3d6a73;
+	float: left;
+}
+.cb{
+	height: 250px;
+	width: 250px;
+	background-color: #77d5e6;
+	float: left;
+}
+.cc{
+	height: 250px;
+	width: 250px;
+	background-color: #65a1ad;
+	float: left;
+}
+.cd{
+	height: 250px;
+	width: 250px;
+	background-color: #227282;
+	float: left;
+}
+.da{
+	height: 250px;
+	width: 400px;
+	background-color:#f5f7f6;
+	position: relative;
+	top: 50px;
+	right: 200px;
+	
+}
+.db{
+	height: 250px;
+	width: 400px;
+	position: relative;
+	bottom: 201px;
+	left: 240px;
+}
+.ba{
+	font-size: 40px;
+	color: white;
+	padding-left: 300px;
+	padding-top: 110px;
+}
+.baa{
+	width: 70px;
+    background-color: white;
+    height: 5px;
+    border-radius: 60px;
+    position: relative;
+    left: 59px;
+    top: 7.5px
+}
+.bab{
+	width: 30px;
+    background-color: white;
+    height: 5px;
+    border-radius: 60px;
+    position: relative;
+    left: 112px;
+    top: 2.5px
+}
+.bac{
+	color: white;
+	font-size: 10px;
+	font-family: cursive;
+	margin-left: 525px;
+	margin-top: 10px;
+	text-align: justify;
+}
+.bad{
+	width: 100px;
+    height: 30px;
+    border-color: white;
+    color:  #77d5e6;
+
+}
+.ce{
+	text-align: justify;
+	color: white;
+	position: relative;
+	top: 40px;
+	left: 20px;
+}
+.cf{
+	text-align: justify;
+	color: white;
+	font-size: 11px;
+	position: relative;
+	top: 40px;
+	left: 20px;
+	font-family: cursive;
+}
+.dab{
+	text-align: justify;
+	font-family: cursive;
+	font-size: 14px;
+	position: relative;
+	top: 50px;
+	left: 20px;
+	color: gray;
+}
+.dba{
+	text-align: justify;
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+.dbb{
+	font-family: cursive;
+	text-align: justify;
+	font-size: 14px;
+	position: relative;
+	top: 10px;
+	left: 20px;
+}
+.de{
+	width: 400px;
+	height: 5px;
+	background-color: #77d5e6;
+	position: relative;
+	top: 340px;
+	right: 300px;
+	border-radius: 50px;
+}
+.e{
+	height: 1100px;
+	width: 1000px;
+	background-color: red;
+}
+.ea{
+	height: 400px;
+	width: 1000px;
+	background-color: pink;
+}
+.eb{
+	height: 100px;
+	width: 1000px;
+	background-color: white;
+}
+.ec{
+	height: 200px;
+	width: 1000px;
+	background-color: pink;
+}
+.ed{
+	height: 400px;
+	width: 1000px;
+	background-color: red;
+}
+.eaa{
+	height: 400px;
+	width: 500px;
+	background-color:  #77d5e6;
+	float: left;
+}
+.eab{
+	height: 400px;
+	width: 1000px;
+	background-color: white;
+
+}
+.eac{
+	text-align: justify;
+	position: relative;
+	top: 60px;
+	left: 60px;
+	color: white;
+}
+.ead{
+	text-align: justify;
+	font-family: cursive;
+	position: relative;
+	top: 70px;
+	left: 60px;
+	color: white;
+
+}
+.eae{
+	width: 100px;
+    height: 30px;
+    border-color: white;
+    color:  #77d5e6;
+}
+.eaf{
+	height: 150px;
+	width: 200px;
+	background-color: red;
+	position: relative;
+	top: 50px;
+	left: 50px;
+	float: left;
+	background-image: url("../images/tdp.jpg");
+	background-size: cover;	
+}
+.eag{
+	height: 150px;
+	width: 140px;
+	background-color: red;
+	position: relative;
+	top: 50px;
+	right: 90px;
+	float: right;
+	background-image: url("../images/ndp.jpg");
+	background-size: cover;
+}
+.eai{
+	height: 150px;
+	width: 200px;
+	background-color: red;
+	position: relative;
+	top: 70px;
+	left: 210px;
+	float: left;
+	background-image: url("../images/jdp.jpg");
+	background-size: cover;
+}
+.eah{
+	height: 150px;
+	width: 140px;
+	background-color: red;
+	position: relative;
+	top: 220px;
+	right: 170px;
+	float: right;
+	background-image: url("../images/sdp.jpg");
+	background-size: cover;
+}
+.eba{
+	font-family: cursive;
+	font-size: 11px;
+	color: gray;
+	position: relative;
+	top: 10px;
+}
+.ebb{
+	position: relative;
+	top: 10px;
+}
+.eca{
+	height: 200px;
+	width: 333.33px;
+	background-color: white;
+	float: left;
+}
+.ecb{
+	height:200px;
+	width: 333.33px;
+	background-color: white;
+	float: left;
+}
+.ecc{
+	height: 200px;
+	width: 333.33px;
+	background-color: white;
+	float: right ;
+}
+.eda{
+	height: 400px;
+	width: 500px;
+	background-color:  white;
+	float: left;
+
+}
+.edb{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	float: left;
+}
+.ede{
+	text-align: justify;
+	position: relative;
+	top: 60px;
+	left: 60px;
+}
+.edf{
+	font-family: cursive;
+	text-align: justify;
+	position: relative;
+	top: 90px;
+	left: 60px;
+	font-size: 15px;
+}
+.edg{
+    width: 100px;
+    height: 30px;
+    background-color: #77d5e6;
+    color: white;
+    border-color: #77d5e6 ;
+
+}
+.edh{
+	height: 350px;
+	width: 400px;
+	background-color: pink;
+	position: relative;
+	top: 50px;
+	background-image: url("../images/pr.jpg");
+	background-size: cover;
+}
+.mech{
+	position: relative;
+	top: 10px;
+
+}
+.eee{
+	position: relative;
+	top: 30px;
+	font-size: 11px;
+	font-family: cursive;
+	color: gray;
+}
+.f{
+	height: 1100px;
+	width: 1000px;
+	background-color: red;
+}
+.fa{
+	width: 1000px;
+	height: 500px;
+	background-color: pink;
+}
+.fb{
+	width: 1000px;
+	height: 100px;
+	background-color:  #77d5e6;
+}
+.fc{
+	width: 1000px;
+	height: 500px;
+	background-color: yellow;
+}
+.faa{
+	height: 100px;
+	width: 1000px;
+	background-color: white;
+}
+.fab{
+	height: 250px;
+	width: 1000px;
+	background-color: white;
+}
+.fac{
+	height: 150px;
+	width: 1000px;
+	background-color:lightskyblue ;
+}
+.fad{
+	height: 250px;
+	width: 333.33px;
+	background-color: pink;
+	float: left;
+	background-image: url("../images/king.jpg");
+	background-size: cover;
+
+}
+.fae{
+	height: 250px;
+	width: 333.33px;
+	background-color: red;
+	float: left;
+	position: relative;
+	top: 20px;
+	background-image: url("../images/lion.jpg");
+	background-size: cover;
+}
+.ok{
+	height: 250px;
+	width: 333.33px;
+	background-color: blue;
+	float: right;
+	background-image: url("../images/bro.jpg");
+	background-size: cover;	
+}
+.durga{
+	height: 150px;
+	width: 333.33px;
+	background-color: white;
+	float: left;
+}
+.prasad{
+	height: 130px;
+	background-color: white;
+	width: 333.33px;
+	position: relative;
+	top: 20px;
+	float: left;
+}
+.poo{
+	height: 150px;
+	background-color: white;
+	width: 333.33px;
+	float: right;
+
+}
+.bro{
+	font-family: cursive;
+	font-size: 11px;
+	position: relative;
+	top: 30px;
+}
+.boo{
+	position: relative;
+	top: 12px;
+}
+.pen{
+	text-align: justify;
+	position: relative;
+	left: 20px;
+	top: 10px;
+}
+.pro{
+	text-align: justify;
+	position: relative;
+	font-family: cursive;
+	top: 20px;
+	left: 20px;
+	font-size: 10px;
+	color: gray;
+}
+.cha{
+	text-align: justify;
+	position: relative;
+	top: 10px;
+	left: 20px;
+}
+.suresh{
+	text-align: justify;
+	font-family: cursive;
+	position: relative;
+	top: 20px;
+	left: 20px;
+	font-size: 10px;
+	color: gray;
+}
+.rajesh{
+	text-align: justify;
+	position: relative;
+	top: 10px;
+	left: 20px;
+}
+.uma{
+	height: 100px;
+	width: 1000px;
+	background-color: white;
+}
+.sai{
+	height: 400px;
+	width: 1000px;
+	background-color: white;
+}
+.shiva{
+	height: 300px;
+	width: 800px;
+	background-color: black;
+	position: relative;
+	top: 50px;
+	background-image: url("../images/team.jpg");
+	background-size: cover;
+}
+.az{
+	position: relative;
+	top: 10px;
+}
+.za{
+	font-family: cursive;
+	position: relative;
+	top: 25px;
+	font-size: 11px;
+	color: gray;
+}
+.no{
+	height: 1100px;
+	width: 1000px;
+	
+}
+.on{
+	height: 400px;
+	width: 1000;
+	background-color: green;
+}
+.of{
+	height: 200px;
+	width: 1000px;
+	
+}
+.om{
+	height: 80px;
+	width: 1000px;
+	background-color: black;
+	color: white;
+}
+.og{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	float: left;
+
+}
+.oo{
+	height: 400px;
+	width: 500px;
+	background-color: #77d5e6;
+	float: right;
+}
+.hg{
+	height: 300px;
+	width: 400px;
+	background-color: gray;
+	position: relative;
+	top: 50px;
+	left: 10px;
+	background-image: url("../images/prasad.jpg");
+	background-size: cover;
+}
+.puja{
+	text-align: justify;
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+.sruthi{
+	text-align: justify;
+	font-family: cursive;
+	font-size: 12px;
+	position: relative;
+	top: 60px;
+	left: 30px;
+}
+.reddy{
+	width: 100px;
+    height: 30px;
+    border-color: white;
+    color:  #77d5e6;
+}
+.wa{
+	height: 200px;
+	width: 250px;
+	
+	float: left;
+
+}
+.wb{
+	height: 200px;
+	width: 250px;
+	
+	float: left;
+}
+.wc{
+	height: 200px;
+	width: 250px;
+	
+	float: left;
+}
+.wd{
+	height: 200px;
+	width: 250px;
+	
+	float: right;
+}
+.aiml{
+	position: relative;
+	top: 80px;
+}
+.ai{
+	position: relative;
+	top: 90px;
+	left: 35px;
+	color: gray;
+	font-family: cursive;
+}
+.ol{
+	position: relative;
+	top: 25px;
+}
+.bunny{
+	width: 400px;
+	height: 5px;
+	background-color: #77d5e6;
+	position: relative;
+	right: 300px;
+	border-radius: 50px;
+}
+.rupa{
+	width: 400px;
+	height: 5px;
+	background-color: #77d5e6;
+	position: relative;
+	left: 300px;
+	border-radius: 50px;
+}
+.anna{
+	width: 180px;
+	height: 35px;
+	background-color: white;
+	position: relative;
+	left: 30px;
+	top: 32px;
+	border-radius: 50px;
+}
+.sri{
+	width: 180px;
+	height: 35px;
+	background-color: white;
+	position: relative;
+	left: 220px;
+	bottom:3px;
+	border-radius: 50px;
+}
+.raja{
+	width: 100px;
+	height: 35px;
+	background-color: white;
+	position: relative;
+	left: 370px;
+	bottom: 38px;
+	color:#77d5e6 ;
+	border-color: white;
+}
+.karthik{
+	height: 80px;
+	width: 333.33px;
+	background-color: white;
+}
+.devi{
+	height: 80px;
+	width: 333.33px;
+	background-color: white;
+}
+.siva{
+	height: 80px;
+	width: 333.33px;
+	background-color: white;
+}
+i{
+	color: skyblue;
+	position: relative;
+	top: 20px;
+
+}
